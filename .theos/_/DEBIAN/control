@@ -1,0 +1,10 @@
+Package: com.greg0109.appkiller
+Name: AppKiller
+Architecture: iphoneos-arm
+Description: Restart apps with a push of a button!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), com.conradkramer.open
+Version: 1.2
+Installed-Size: 268
